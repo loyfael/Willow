@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Willow", "Willow\Willow.csproj", "{14330656-CCCC-4A06-8AA8-9DD0A8EDEBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14330656-CCCC-4A06-8AA8-9DD0A8EDEBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14330656-CCCC-4A06-8AA8-9DD0A8EDEBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14330656-CCCC-4A06-8AA8-9DD0A8EDEBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14330656-CCCC-4A06-8AA8-9DD0A8EDEBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
